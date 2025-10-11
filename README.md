@@ -1,16 +1,13 @@
-## Hi there 👋
+Hello, everyone!
 
-<!--
-**Link233on/Link233on** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi There
+ * An ordinary person who has escaped the low-level taste!
 
-Here are some ideas to get you started:
+[![Stalker's github stats](https://github-readme-stats.vercel.app/api?username=link233on&show_icons=true&theme=onedark)](https://github.com/link233on)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/link233on/link233on/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/link233on/link233on/blob/output/github-snake.svg" />
+  ![github-snake](github-snake.svg)
+</picture>
