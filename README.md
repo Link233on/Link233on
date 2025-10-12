@@ -1,16 +1,27 @@
-### Hey Link here 👋
+### Hey
+
+An ordinary person who has escaped the low-level taste! :wink:
+
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/onimur)
+[![Twitter](https://img.shields.io/badge/-X-000000?style=flat&logo=X&logoColor=white)](https://github.com/onimur)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white)](https://github.com/onimur)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=Discord&logoColor=white)](https://github.com/onimur)
+[![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=flat&logo=Reddit&logoColor=white)](https://github.com/onimur)
+[![WhatsApp](https://img.shields.io/badge/-Whatsapp-25D366?style=flat&logo=WhatsApp&logoColor=white)](https://github.com/onimur)
+[![WeChat](https://img.shields.io/badge/-Wechat-07C160?style=flat&logo=WeChat&logoColor=white)](https://github.com/onimur)
+[![Bilibili](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat&logo=Bilibili&logoColor=white)](https://github.com/onimur)
+[![QQ](https://img.shields.io/badge/-QQ-1EBAFC?style=flat&logo=QQ&logoColor=white)](https://github.com/onimur)
+[![Patreon](https://img.shields.io/badge/-Patreon-000000?style=flat&logo=Patreon&logoColor=white)](https://github.com/onimur)
+
 
 ---
 
- An ordinary person who has escaped the low-level taste! :wink:
- 
----
+<!-- Any image aligned to the right. Beware the width -->
+<img width="100%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-![Profile views](https://github.com/Link233on)  <img src="https://img.shields.io/github/followers/link233on?label=Follow" style=" float:left, margin-right:10px" />
 
----
-
-###Link233Love
+### Link233Love
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
@@ -30,12 +41,13 @@
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
+<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> 
+<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
+<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=white"> 
+<img src="https://img.shields.io/badge/-Swift-F05138?style=flat&logo=Swift&logoColor=white"> 
+<img src="https://img.shields.io/badge/-AndroidStudio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white"> 
 
----
-
-###Link233Love
-
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 
 ---
 
@@ -44,3 +56,22 @@
 ---
 
 ![](https://github.com/Link233on/Link233on/blob/output/github-snake.svg)
+
+
+## 想要給我買杯咖啡嗎🤪
+<!-- Your support, if you have it 
+I created these images, feel free to use them.
+-->
+<p align="center">
+  <a href="https://www.patreon.com" target="_blank">
+    <img width="30%" alt="Check my Patreon" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-patreon.png"/>
+  </a>
+  <a href="https://www.paypal.com" target="_blank">
+      <img width="30%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-paypal.png"/>
+  </a>
+  <a href="https://www.buymeacoffee.com" target="_blank">
+      <img width="30%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
+  </a>
+</p>
+
+
