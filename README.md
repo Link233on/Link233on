@@ -1,7 +1,7 @@
-### Hey
+### About me
 
-An ordinary person who has escaped the low-level taste! :wink:
-
+<!--   my-ticker -->    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%039932CA&center=true&vCenter=true&width=680&lines=Hi+there+👋,+I+am+Link233+Welcome+to+My+Profile!;An+ordinary+person+who+has+escaped+the+low-level+taste!)](https://git.io/typing-svg)
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/onimur)
 [![Twitter](https://img.shields.io/badge/-X-000000?style=flat&logo=X&logoColor=white)](https://github.com/Link233on)
@@ -14,14 +14,12 @@ An ordinary person who has escaped the low-level taste! :wink:
 [![QQ](https://img.shields.io/badge/-QQ-1EBAFC?style=flat&logo=QQ&logoColor=white)](https://github.com/Link233on)
 [![Patreon](https://img.shields.io/badge/-Patreon-000000?style=flat&logo=Patreon&logoColor=white)](https://github.com/Link233on)
 
-
 ---
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="100%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-
-### Link233Love
+Link233Love
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
@@ -55,8 +53,29 @@ An ordinary person who has escaped the low-level taste! :wink:
 
 ---
 
-![](https://github.com/Link233on/Link233on/blob/output/github-snake.svg)
+## Star History
 
+[![Star History Chart](https://api.star-history.com/svg?repos=link233on/link233on&type=Date)](https://star-history.com/#link233on/link233on&Date)
+
+### GitHub Activity Graph:
+<!--   green snake -->
+![inn's github activity graph](https://github.com/Link233on/Link233on/blob/output/github-snake.svg)
+
+---
+
+### Profile Views
+counting of visitors to this page in this section started from 2025年3月1日
+
+![](https://count.getloli.com/get/@link233on.github.readme)
+</br>
+
+</p>
+
+#### Thanks for visiting :heart:
+
+<p align="center"> 
+<img src="https:">  
+<a href="https://info.flagcounter.com/DfqZ"><img src="https://s05.flagcounter.com/countxl/DfqZ/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_64/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 ## 想要給我買杯咖啡嗎🤪
 <!-- Your support, if you have it 
@@ -74,4 +93,5 @@ I created these images, feel free to use them.
   </a>
 </p>
 
+![](https://github.com/BEPb/BEPb/blob/main/assets/Bottom_down.svg)
 
