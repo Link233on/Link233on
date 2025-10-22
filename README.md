@@ -53,11 +53,7 @@ Link233Love
 
 ---
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=link233on/link233on&type=Date)](https://star-history.com/#link233on/link233on&Date)
-
-### GitHub Activity Graph:
+### GitHub Activity Graph
 <!--   green snake -->
 ![inn's github activity graph](https://github.com/Link233on/Link233on/blob/output/github-snake.svg)
 
