@@ -3,6 +3,9 @@
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%039932CA&center=true&vCenter=true&width=680&lines=Hi+there+👋,+I+am+Link233+Welcome+to+My+Profile!;An+ordinary+person+who+has+escaped+the+low-level+taste!)](https://git.io/typing-svg)
 
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/)
+</div>
+
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/onimur)
 [![Twitter](https://img.shields.io/badge/-X-000000?style=flat&logo=X&logoColor=white)](https://github.com/Link233on)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white)](https://github.com/Link233on)
