@@ -80,7 +80,7 @@ counting of visitors to this page in this section started from 2025年3月1日
 
 #### Thanks for visiting :heart:
 
-<a href="https://info.flagcounter.com/DfqZ"><img src="https://s05.flagcounter.com/countxl/DfqZ/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_64/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<a href="https://info.flagcounter.com/DfqZ"><img width="100%" src="https://s05.flagcounter.com/countxl/DfqZ/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_64/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 ## 想要給我買杯咖啡嗎🤪
 <!-- Your support, if you have it 
@@ -98,5 +98,9 @@ I created these images, feel free to use them.
   </a>
 </p>
 
-![](https://github.com/Link233on/Link233on/blob/main/footer.svg)
+### 🏷️
+
+<img width="100%" src="https://github.com/Link233on/Link233on/blob/main/io.gif">
+
+
 
