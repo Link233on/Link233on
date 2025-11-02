@@ -1,10 +1,12 @@
-<img width="8%" src="https://github.com/Link233on/Link233on/blob/main/message.gif"> About Me
+<!-- https://patorjk.com/software/taag/#p=display&f=Doh&t=Link233%0A&x=rainbow3&h=1&v=1 -->    
+<img width="100%" src="https://github.com/Link233on/Link233on/blob/main/Assets/Png/Name.png">
 
-<!--   my-ticker -->    
+<img width="8%" src="https://github.com/Link233on/Link233on/blob/main/Assets/Gif/message.gif"> About Me
+
+<!-- my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%039932CA&center=true&vCenter=true&width=680&lines=Hi+there+👋,+I+am+Link233+Welcome+to+My+Profile!;An+ordinary+person+who+has+escaped+the+low-level+taste!)](https://git.io/typing-svg)
 
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/)
-</div>
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/)
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/onimur)
 [![Twitter](https://img.shields.io/badge/-X-000000?style=flat&logo=X&logoColor=white)](https://github.com/Link233on)
@@ -20,9 +22,9 @@
 ---
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="100%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> <img width="25%" src="https://github.com/Link233on/Link233on/blob/main/kyubey.gif">
+<img width="100%" align="right" alt="Github" src="https://github.com/Link233on/Link233on/blob/main/Assets/Svg/git-header.svg" /> <img width="25%" src="https://github.com/Link233on/Link233on/blob/main/Assets/Gif/kyubey.gif">
 
-Link233<img width="22%" src = "https://github.com/Link233on/Link233on/blob/main/oo.gif">
+Link233<img width="22%" src = "https://github.com/Link233on/Link233on/blob/main/Assets/Gif/oo.gif">
 
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"><img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
@@ -65,42 +67,35 @@ Link233<img width="22%" src = "https://github.com/Link233on/Link233on/blob/main/
 ---
 
 ### GitHub Activity Graph
-<!--   green snake -->
+<!-- green snake -->
 ![inn's github activity graph](https://github.com/Link233on/Link233on/blob/output/github-snake.svg)
 
 ---
 
 ### Profile Views
-counting of visitors to this page in this section started from 2025年3月1日
+counting of visitors to this page in this section started from 5, OCT 2025
 
 ![](https://count.getloli.com/get/@link233on.github.readme)
-</br>
-
-</p>
 
 #### Thanks for visiting :heart:
-
 <a href="https://info.flagcounter.com/DfqZ"><img width="100%" src="https://s05.flagcounter.com/countxl/DfqZ/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_64/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
-## 想要給我買杯咖啡嗎🤪
-<!-- Your support, if you have it 
-I created these images, feel free to use them.
--->
+### Support
+<!-- image is created by Onimur -->
 <p align="center">
   <a href="https://www.patreon.com" target="_blank">
-    <img width="30%" alt="Check my Patreon" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-patreon.png"/>
+    <img width="30%" alt="Check my Patreon" src="https://github.com/Link233on/Link233on/blob/main/Assets/Support/support-patreon.png"/>
   </a>
   <a href="https://www.paypal.com" target="_blank">
-      <img width="30%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-paypal.png"/>
+      <img width="30%" alt="Donate with Paypal" src="https://github.com/Link233on/Link233on/blob/main/Assets/Support/support-paypal.png"/>
   </a>
   <a href="https://www.buymeacoffee.com" target="_blank">
-      <img width="30%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
+      <img width="30%" alt="Buy me a coffee" src="https://github.com/Link233on/Link233on/blob/main/Assets/Support/support-buy-coffee.png"/>
   </a>
 </p>
 
 ### 🏷️
-
-<img width="100%" src="https://github.com/Link233on/Link233on/blob/main/io.gif">
+<img width="100%" src="https://github.com/Link233on/Link233on/blob/main/Assets/Gif/Fanren.gif">
 
 
 
